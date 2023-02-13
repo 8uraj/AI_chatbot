@@ -1,4 +1,4 @@
-<!-- 
+
 $ cd chatbot-deployment
 $ python3 -m venv venv
 $ . venv/Scripts/activate
@@ -8,4 +8,4 @@ $ (venv) python chat.py
 
 ## Credits:
 This repo was used:
-https://github.com/8uraj -->
+https://github.com/8uraj
