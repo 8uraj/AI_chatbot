@@ -1,5 +1,7 @@
+$ git clone https://github.com/8uraj/AI_chatbot.git
 
-$ cd chatbot-deployment
+
+$ cd AI_chatbot
 
 
 $ python3 -m venv venv
